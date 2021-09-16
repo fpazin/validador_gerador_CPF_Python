@@ -8,5 +8,7 @@ Gerador de CPFs
 	Arquivo: _geradorCPF.py
 	
 Validador de CPFs
+	Nenhuma biblioteca precisa ser instalada.
+		
 	Arquivo: _validadorCPF.py
 
